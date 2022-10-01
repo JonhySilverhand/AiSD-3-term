@@ -1,0 +1,20 @@
+﻿Сборка начата 13.09.2022 20:07:37.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабораторные\3 семестр\АиСД\Lab01\Lab01\Lab01.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab01.cpp
+         Lab01.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Лабораторные\3 семестр\АиСД\Lab01\Debug\Lab01.exe" /INCREMENTAL /ILK:"Debug\Lab01.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Лабораторные\3 семестр\АиСД\Lab01\Debug\Lab01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Лабораторные\3 семестр\АиСД\Lab01\Debug\Lab01.lib" /MACHINE:X86 Debug\Lab01.obj
+         Lab01.vcxproj -> D:\Лабораторные\3 семестр\АиСД\Lab01\Debug\Lab01.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab01.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab01.tlog\Lab01.lastbuildstate".
+     1>Сборка проекта "D:\Лабораторные\3 семестр\АиСД\Lab01\Lab01\Lab01.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.17
